@@ -24,7 +24,7 @@
             </a>
         </div>
         <div class="caixa--email--senha">
-            <form action="logar.php" method="POST">
+            <form action="../Conexao/logar.php" method="POST">
                 <fieldset class="campo--email">
                     <i class="fa fa-envelope-o" style="font-size:24px"></i>
                     <label for="email">E-mail: </label>

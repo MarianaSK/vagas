@@ -3,9 +3,9 @@
 session_start();
 
 $localhost = "localhost";
-$user = "root";
-$pass = "";
-$banco = "vagas";
+$user = "id16177308_vagas_agatha";
+$pass = "Mari9596!Mari9596!";
+$banco = "id16177308_vagas";
 
 global $pdo;
 

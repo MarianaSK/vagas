@@ -12,7 +12,7 @@
 <div id="loading" class="loading"></div>
 <nav class="navbar navbar-dark bg-dark">
     <img src="img/1524771731286.jpg" alt="Logo da empresa" style="width: 50px;">
-    <a href="/Cadastro/login.php">Cadastrar</a>
+    <a href="public/Cadastro/login.php">Cadastrar</a>
 </nav>
 </body>
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
